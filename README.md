@@ -3,9 +3,7 @@
 🧑‍🎓 Post Grad student at VIT, Vellore<br>
 🚀 Passionate Front-End Developer<br>
 🌈 Dedicated to user-centric experiences<br>
-🧠 Analytical mind, continuous learner<br>
-🤝 Thrives in collaboration, builds innovative projects<br>
-🌱 Currently mastering Angular<br>
+🌱 Currently mastering React<br>
 
 
 ## 🌐 Socials:
