@@ -1,6 +1,6 @@
 # 💫 About Me:
-🏢 Software Engineering Intern<br>
-🧑‍🎓 Post Grad student at VIT, Vellore<br>
+🏢 Power Programmer @Infosys | ex SDE Intern @Infosys, Learnship, CollabLab<br>
+🧑‍🎓 Post Grad -  VIT, Vellore<br>
 🚀 Passionate Front-End Developer<br>
 🌈 Dedicated to user-centric experiences<br>
 🌱 Currently mastering React<br>
