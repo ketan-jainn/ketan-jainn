@@ -1,22 +1,27 @@
-# 💫 About Me:
-🏢 Power Programmer @Infosys | ex SDE Intern @Infosys, Learnship, CollabLab<br>
-🧑‍🎓 Post Grad -  VIT, Vellore<br>
-🚀 Passionate Front-End Developer<br>
-🌈 Dedicated to user-centric experiences<br>
-🌱 Currently mastering React<br>
+## Hi there, I'm a Backend Software Engineer 👋
 
+I specialize in building robust, event-driven distributed systems and scalable backend applications for B2B SaaS products. My focus lies in designing resilient microservices and automating cloud infrastructure to ensure high availability and smooth deployment pipelines. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketanjainn/) [![Fiverr](https://i.ibb.co/kq6Zfjp/New-Project.png)](https://www.fiverr.com/ketan_dev)
+### 🚀 What I Do
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+*   **Microservices Architecture:** Architect and develop high-performance backend systems.
+*   **Event-Driven Systems:** Design scalable data pipelines and asynchronous communication utilizing modern messaging platforms.
+*   **Infrastructure & Automation:** Provision and automate cloud environments to streamline deployment processes.
+*   **System Reliability:** Handle incident response, maintain infrastructure, and write targeted scripts to drastically reduce system maintenance downtime.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ketan-jainn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🛠️ Tech Stack
 
-### 😂 Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python |
+| **Frameworks** | Spring Boot |
+| **Cloud & DevOps** | AWS, Docker, Terraform |
+| **Data & Messaging** | Apache Kafka |
 
----
-[![](https://visitcount.itsvg.in/api?id=ketan-jainn&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊 GitHub Activity
+
+[![Ketan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ketan-jainn&theme=github-compact)]
+
+### 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/ketanjainn/) • [Email](mailto:ketanjainn05@gmail.com) • [Portfolio](https://ketanjain.vercel.app/)
