@@ -15,8 +15,8 @@ I specialize in building robust, event-driven distributed systems and scalable b
 | :--- | :--- |
 | **Languages** | Java, Python |
 | **Frameworks** | Spring Boot |
-| **Cloud & DevOps** | AWS, Docker, Terraform |
-| **Data & Messaging** | Apache Kafka |
+| **Cloud & DevOps** | AWS, Docker, Terraform, Kubernetes |
+| **Data & Messaging** | Apache Kafka, Redis |
 
 ### 📊 GitHub Activity
 
