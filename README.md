@@ -20,7 +20,7 @@ I specialize in building robust, event-driven distributed systems and scalable b
 
 ### 📊 GitHub Activity
 
-[![Ketan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ketan-jainn&theme=github-compact)]
+![Ketan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ketan-jainn&theme=github-compact)
 
 ### 📫 Let's Connect!
 
