@@ -18,10 +18,6 @@ I specialize in building robust, event-driven distributed systems and scalable b
 | **Cloud & DevOps** | AWS, Docker, Terraform, Kubernetes |
 | **Data & Messaging** | Apache Kafka, Redis |
 
-### 📊 GitHub Activity
-
-![Ketan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ketan-jainn&theme=github-compact)
-
 ### 📫 Let's Connect!
 
 [LinkedIn](https://www.linkedin.com/in/ketanjainn/) • [Email](mailto:ketanjainn05@gmail.com) • [Portfolio](https://ketanjain.vercel.app/)
